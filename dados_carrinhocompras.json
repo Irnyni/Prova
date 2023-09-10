@@ -1,0 +1,42 @@
+[
+    {
+        "cliente_id": "cli01",
+        "items": [
+            {
+                "desc": "Fone de ouvido Bluetooth",
+                "preco": 169.90,
+                "qtd": 2
+            },
+            {
+                "desc": "Conjunto Teclado e Mouse Gamer",
+                "preco": 249.90,
+                "qtd": 1
+            },
+            {
+                "desc": "Recarregador portátil",
+                "preco": 79.90,
+                "qtd": 3
+            }
+        ]
+    },
+    {
+        "cliente_id": "cli03",
+        "items": [
+            {
+                "desc": "Coleção de Livros Schopenhauer",
+                "preco": 99.90,
+                "qtd": 1
+            },
+            {
+                "desc": "Impressora Multifuncional",
+                "preco": 249.90,
+                "qtd": 1
+            },
+            {
+                "desc": "Suporte monitor",
+                "preco": 59.90,
+                "qtd": 3
+            }
+        ]
+    }
+]
